@@ -1,1 +1,1 @@
-# word-guess
+# javascript-quiz
